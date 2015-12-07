@@ -1,3 +1,5 @@
+*.lock_bak
+
 # Ignore bundler config.
 /.bundle
 .idea
