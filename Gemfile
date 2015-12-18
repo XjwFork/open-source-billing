@@ -1,6 +1,6 @@
 source 'https://ruby.taobao.org'
 
-gem 'rails', '~> 4.1.8'
+gem 'rails', '~> 4.1.14'
 
 gem 'bundler'
 gem 'railties'
@@ -9,7 +9,7 @@ gem 'sprockets-rails', '~> 2.2.2'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 gem 'xlsx_writer'
-gem 'mysql2'
+gem 'mysql2' , '~>0.3.18'
 gem 'devise', '3.2.3'
 gem 'devise-encryptable'
 gem 'slim-rails'
