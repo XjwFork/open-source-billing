@@ -49,6 +49,7 @@ group :development do
   gem 'awesome_print'
   gem 'quiet_assets'
   gem 'copyright-header'
+  gem 'pry-nav'
 end
 gem 'browser'
 gem 'gon'
